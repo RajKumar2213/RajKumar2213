@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RajKumar2213
+- 👀 I’m interested in Java and C family
+- 🌱 I’m currently learning the .net framework and Angular
